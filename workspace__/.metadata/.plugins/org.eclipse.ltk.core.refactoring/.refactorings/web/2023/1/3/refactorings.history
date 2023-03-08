@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="リソース名 &apos;web/public/NewFile.css&apos; を &apos;style.css&apos; に変更します" description="リソース &apos;NewFile.css&apos; の名前変更" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="public/NewFile.css" name="style.css" stamp="1673845849416" updateReferences="true"/>
+</session>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="&apos;jquery-3.6.3.min.js&apos; を &apos;js&apos; に移動" description="&apos;jquery-3.6.3.min.js&apos; を &apos;js&apos; に移動" destination="public/js" element1="public/jquery-3.6.3.min.js" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1675229911245" updateReferences="true"/>&#x0A;<refactoring comment="&apos;main.js&apos; を &apos;js&apos; に移動" description="&apos;main.js&apos; を &apos;js&apos; に移動" destination="public/js" element1="public/main.js" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1675229915757" updateReferences="true"/>
+</session>

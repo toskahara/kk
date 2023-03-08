@@ -1,0 +1,1 @@
+# coding:utf-8import tkinter as tkroot = tk.Tk()root.mainloop()for f in tk.Tk().call("font","families"):    print(f)
