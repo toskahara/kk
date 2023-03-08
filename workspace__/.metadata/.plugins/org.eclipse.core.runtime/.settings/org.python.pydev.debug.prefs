@@ -1,8 +1,0 @@
-DJANGO_INTERPRETER_CMDS=import os; os.environ['DJANGO_SETTINGS_MODULE'] \= '${DJANGO_SETTINGS_MODULE}'; import django\r\nif django.VERSION <\= (1, 5)\:\r\n\tfrom django.core import management\r\n\timport ${DJANGO_SETTINGS_MODULE} as settings\r\n\tmanagement.setup_environ(settings)\r\nelse\:\r\n\tfrom django.core.wsgi import get_wsgi_application\r\n\tapplication \= get_wsgi_application()\r\n
-INITIAL_INTERPRETER_CMDS=import sys; print('%s %s' % (sys.executable or sys.platform, sys.version))\r\n
-INTERACTIVE_CONSOLE_ENABLE_GUI_ON_STARTUP=tk
-eclipse.preferences.version=1
-pydevconsole_background_color=192,192,192
-pydevconsole_sysin_color=128,0,255
-pydevconsole_sysout_color=255,255,0
-pydevdebugconsole_background_color=64,0,64

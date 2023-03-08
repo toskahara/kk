@@ -1,7 +1,0 @@
-INDEX VERSION 1.131
-C:\ec\pleiades-2021-12-ultimate-win-64bit-jre_20220106\pleiades\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1553564940.index
-\C14\src\main\java
-C:\ec\pleiades-2021-12-ultimate-win-64bit-jre_20220106\pleiades\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3072780321.index
-\C14\src\main\java
-C:\ec\pleiades-2021-12-ultimate-win-64bit-jre_20220106\pleiades\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4030668544.index
-\C14\src\main\java
